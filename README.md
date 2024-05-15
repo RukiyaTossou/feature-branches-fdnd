@@ -1,2 +1,2 @@
 # feature-branches-fdnd
-Dit is een demo
+this is a demo about using feature branches
